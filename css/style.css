@@ -1,0 +1,409 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&display=swap');
+
+.container{
+	width:1170px;
+	padding:0 15px;
+	margin:0 auto;
+	
+}
+.row{
+	display:flex;
+	flex-wrap:wrap;
+	margin-left:-15px;
+	margin-right:-15px;
+}
+.row>*{
+	width:100%;
+	padding:0 15px;
+}
+
+.col-lg-1{
+	width:8.33%;
+	padding:0 15px;
+}
+.col-lg-2{
+	width:16.66%;
+	padding:0 15px;
+}
+.col-lg-3{
+	width:25%;
+	padding:0 15px;
+}
+.col-lg-4{
+	width:33.33%;
+	padding:0 15px;
+}
+.col-lg-5{
+	width:41.66%;
+	padding:0 15px;
+}
+.col-lg-6{
+	width:50%;
+	padding:0 15px;
+}
+.col-lg-7{
+	width:58.33%;
+	padding:0 15px;
+}
+.col-lg-8{
+	width:66.66%;
+	padding:0 15px;
+}
+.col-lg-9{
+	width:75%;
+	padding:0 15px;
+}
+.col-lg-10{
+	width:83.33%;
+	padding:0 15px;
+}
+.col-lg-11{
+	width:91.66%;
+	padding:0 15px;
+}
+.col-lg-12{
+	width:100%;
+	padding:0 15px;
+}
+
+/*----- Header Style starts -----*/
+.top-header{
+	background-color:black;
+	padding:10px 0;
+}
+.logo{
+	background-color:red;
+	height:50px;
+	width:auto;
+}
+.navbar{
+	background-color:red;
+	height:50px;
+	width:auto;
+}
+.nav-button{
+	background-color:red;
+	height:50px;
+	width:auto;
+}
+/*----- Header Style Ends -----*/
+
+/*----- banner Style starts -----*/
+.banner{
+	background-color:red;
+	height:600px;	
+}
+/*----- banner Style Ends -----*/
+
+/*----- customer-logo Style Starts -----*/
+.customer-logo{
+	background-color:black;
+	width:auto;
+	padding:80px 0;
+}
+/*----- customer-logo Style Ends -----*/
+
+
+/*----- about Style starts -----*/
+.about{	
+background-color:black;
+padding:80px 0;
+}
+.about-content{
+	background-color:red;
+	height:300px;
+	width:auto;
+}
+.about-1{
+	background-color:red;
+	height:400px;
+	width:auto;
+	padding:80px 0;
+}
+.about-content-box{
+	height:100px;
+	width:auto;
+	background-color:black;
+	
+}
+.about-detail-box{
+	height:100px;
+	width:auto;
+	background-color:black;
+	margin-top:20px;
+}
+.about-2{
+	background-color:black;
+	height:500px;
+	width:auto;
+	padding:80px 0;
+}
+.about-2-content{
+	background-color:red;
+	height:400px;
+	width:auto;
+}
+/*----- about Style Ends -----*/
+
+
+/*----- service Style Stars -----*/
+.service{
+	background-color:red;
+	height:500px;
+	width:auto;
+	padding:80px 0;
+}
+.line{
+	height:3px;
+	width:30px;
+	background-color:red;
+}
+.service-box-1{
+	background-color:black;
+	height:100px;
+	width:auto;
+	margin-top:30px;
+}
+/*----- Service Style Ends -----*/
+
+/*----- portfolio Style Starts -----*/
+
+.portfolio{
+	height:800px;
+	width:auto;
+	background-color:black;
+	padding:80px 0;
+}
+.container-content{
+	height:100px;
+	width:auto;
+	background-color:red;
+}
+.all{
+	height:40px;
+	width:200px;
+	background-color:red;
+	margin: 10px auto;
+}
+.row-1{
+	margin-top:20px
+}
+.row-2{
+	margin-top:20px
+}
+.row-3{
+	margin-top:20px
+}
+.img{
+	height:150px;
+	width:auto;
+	background-color:red;
+}
+
+/*----- portfolio Style Ends -----*/
+
+/*----- testimonial Style Starts -----*/
+
+.testimonial{
+	height:400px;
+	width:auto;
+	background-color:red;
+	padding:80px 0;
+}
+.testimonial-content{
+	height:50px;
+	width:auto;
+	background-color:black;
+}
+.testimonial-details{
+	height:200px;
+	width: auto;
+	background-color:black;
+	margin-top: 20px;
+}
+
+/*----- testimonial Style Ends -----*/
+
+
+/*----- pricing Style Starts -----*/
+
+.pricing{
+	height:600px;
+	width:auto;
+	background-color:black;
+	padding:80px 0;
+}
+.pricing-content{
+	height:70px;
+	width:auto;
+	background-color:red;
+}
+.pricing-details{
+	height:350px;
+	width: auto;
+	background-color:red;
+	margin-top: 20px;
+}
+
+/*----- pricing Style Ends -----*/
+
+
+/*----- FAQ Style Starts -----*/
+
+.faq{
+	height: 800px;
+	width: ;
+	background-color: red;
+	padding:80px 0;
+}
+.faq-content{
+	height: 50px;
+	background-color: black;
+	margin-bottom: 50px;
+}
+.faq-1{
+	height: 80px;
+	background-color: black;
+	margin-top: 20px;
+}
+.faq-2{
+	height: 80px;
+	background-color: black;
+	margin-top: 20px;
+}
+.faq-3{
+	height: 80px;
+	background-color: black;
+	margin-top: 20px;
+}
+.faq-4{
+	height: 80px;
+	background-color: black;
+	margin-top: 20px;
+}
+.faq-5{
+	height: 80px;
+	background-color: black;
+	margin-top: 20px;
+}
+.faq-6{
+	height: 80px;
+	background-color: black;
+	margin-top: 20px;
+}
+
+/*----- FAQ Style Ends -----*/
+
+/*----- Teams Style Starts -----*/
+
+.teams{
+	height:600px;
+	width:auto;
+	background-color:black;
+	padding:80px 0;
+}
+.teams-content{
+	height:70px;
+	width:auto;
+	background-color:red;
+}
+.teams-details{
+	height:350px;
+	width: auto;
+	background-color:red;
+	margin-top: 20px;
+}
+
+/*----- Teams Style Ends -----*/
+
+/*----- Contact Style Starts -----*/
+
+.contact{
+	height:550px;
+	width:auto;
+	background-color:red;
+	padding:80px 0;
+}
+
+.contact-content{
+	height:100px;
+	width:auto;
+	background-color:black;
+}
+.contact-detail{
+	height:300px;
+	width:auto;
+	background-color:black;
+	margin-top: 20px;
+}
+.address{
+	height:100px;
+	width:auto;
+	background-color:red;
+	margin: 20px 20px 0 ;
+}
+
+.email{
+	background-color:red;
+	height:150px;
+	width:auto;
+	margin: 20px 0 0 20px;
+}
+.call{
+	background-color:red;
+	height:150px;
+	width:auto;
+	margin: 20px 0 0 0;
+}
+.form{
+	height:300px;
+	width:auto;
+	background-color:black;
+	margin-top: 20px;
+}
+
+/*----- Contact Style Ends -----*/
+
+/*----- End Style Starts -----*/
+.end{
+	height:400px;
+	width:auto;
+	background-color:black;
+	padding:80px 0;
+}
+.end-presento{
+	height:300px;
+	width:auto;
+	background-color:red;
+}
+.end-link{
+	height:300px;
+	width:auto;
+	background-color:red;
+}
+.end-join{
+	height:300px;
+	width:auto;
+	background-color:red;
+}
+/*----- End Style Ends -----*/
+
+/*----- Footer Style Starts -----*/
+.footer{
+	height:80px;
+	width:auto;
+	background-color:red;
+	padding:80px 0;
+}
+.footer-copy{
+	height:70px;
+	width:auto;
+	background-color:black;
+}
+.footer-logo{
+	height:70px;
+	width:auto;
+	background-color:black;
+}
+
+/*----- Footer Style Ends -----*/
